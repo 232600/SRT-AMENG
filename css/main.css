@@ -7581,7 +7581,7 @@ p:not(:last-of-type) {
 @media (min-width: 576px) {
     .header__social-icons {
         flex-direction: column;
-        top: 50%;
+        top: 98.4%;
         left: 0.3125rem;
         bottom: initial;
         transform: translateY(-50%)
