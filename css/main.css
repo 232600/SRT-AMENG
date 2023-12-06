@@ -8146,3 +8146,8 @@ section {
 
       
 }
+
+
+.about__content{
+    text-align: center !important;
+}
