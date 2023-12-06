@@ -136,13 +136,13 @@ sup {
 }
 
 a {
-    color: #0984e3;
+    color: #58c8a8;
     text-decoration: none;
     background-color: transparent
 }
 
 a:hover {
-    color: #065999;
+    color: #ffffff;
     text-decoration: underline
 }
 
@@ -2671,7 +2671,7 @@ textarea.form-control.is-invalid {
 .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #0984e3
+    background-color: #58c8a8
 }
 
 .dropdown-item.disabled,
@@ -2769,7 +2769,7 @@ textarea.form-control.is-invalid {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #0984e3
+    background-color: #58c8a8
 }
 
 .nav-fill>.nav-link,
@@ -3248,7 +3248,7 @@ textarea.form-control.is-invalid {
     padding: 0.5rem 0.75rem;
     margin-left: -1px;
     line-height: 1.25;
-    color: #0984e3;
+    color: #58c8a8;
     background-color: #fff;
     border: 1px solid #dee2e6
 }
@@ -3281,8 +3281,8 @@ textarea.form-control.is-invalid {
 .page-item.active .page-link {
     z-index: 3;
     color: #fff;
-    background-color: #0984e3;
-    border-color: #0984e3
+    background-color: #58c8a8;
+    border-color: #58c8a8
 }
 
 .page-item.disabled .page-link {
@@ -3366,7 +3366,7 @@ a.badge:focus {
 
 .badge-primary {
     color: #fff;
-    background-color: #0984e3
+    background-color: #58c8a8
 }
 
 a.badge-primary:hover,
@@ -3525,7 +3525,7 @@ a.badge-dark.focus {
 }
 
 .bg-primary {
-    background-color: #0984e3 !important
+    background-color: #58c8a8 !important
 }
 
 a.bg-primary:hover,
@@ -3661,7 +3661,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-    border-color: #0984e3 !important
+    border-color: #58c8a8 !important
 }
 
 .border-secondary {
@@ -7259,7 +7259,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-    color: #0984e3 !important
+    color: #58c8a8 !important
 }
 
 a.text-primary:hover,
@@ -7446,7 +7446,7 @@ body {
     text-transform: uppercase;
     text-align: center;
     margin-bottom: 1.875rem;
-    color: #0984e3;
+    color: #58c8a8;
     letter-spacing: 1px
 }
 
@@ -7469,7 +7469,7 @@ body {
     display: block;
     font-size: 1.25rem;
     font-weight: 400;
-    color: #0984e3
+    color: #58c8a8
 }
 
 @media (min-width: 576px) {
@@ -7623,11 +7623,11 @@ p:not(:last-of-type) {
 .navbar-top .navbar-nav .nav-link:focus,
 .navbar-top .navbar-nav .nav-link:active {
     color: #fff;
-    border-bottom: 2px solid #0984e3
+    border-bottom: 2px solid #58c8a8
 }
 
 .navbar-top .navbar-nav .active>.nav-link {
-    border-bottom: 2px solid #0984e3
+    border-bottom: 2px solid #58c8a8
 }
 
 @media (min-width: 768px) {
@@ -7654,7 +7654,7 @@ p:not(:last-of-type) {
 }
 
 .nav .nav-link.active {
-    color: #555555
+    color: #000000
 }
 
 .nav .nav-item>.dropdown-menu .dropdown-item {
@@ -7764,7 +7764,7 @@ p:not(:last-of-type) {
 
 .btn--full {
     border: 1px solid transparent;
-    background-color: #0984e3;
+    background-color: #58c8a8;
     color: #eeeeee
 }
 
@@ -7772,19 +7772,19 @@ p:not(:last-of-type) {
 .btn--full:focus,
 .btn--full:active {
     color: #eeeeee;
-    background-color: #0871c2
+    background-color: #49A78C
 }
 
 .btn--ghost {
-    border: 1px solid #0984e3;
-    color: #0984e3
+    border: 1px solid #58c8a8;
+    color: #58c8a8
 }
 
 .btn--ghost:hover,
 .btn--ghost:focus,
 .btn--ghost:active {
     color: #eeeeee;
-    background-color: #0984e3
+    background-color: #58c8a8
 }
 
 .btn__icon-right {
